@@ -77,8 +77,6 @@ extension ContactListVC {
             Contact(avatar: Contacts.wx, name: "王恂", latestMsg: "我接受了你的联系人申请，开始聊天吧！", datetime: "4月24日", type: .external),
             Contact(avatar: Contacts.docBot, name: "云文档助手", latestMsg: "权限变更", datetime: "4月24日", type: .bot),
             Contact(avatar: Contacts.zjl, name: "张纪龙", latestMsg: "我接受了你的联系人申请，开始聊天吧！", datetime: "4月24日", type: .user),
-            Contact(avatar: Contacts.group2, name: "飞书技术训练营-客户端专场-咨询群", latestMsg: "西南财经大学-计算机-孟靖文：ak都这样，我被刷心服口服", datetime: "4月24日", type: .external),
-            Contact(avatar: Contacts.cwl, name: "曹文龙", latestMsg: "我接受了你的联系人申请，开始聊天吧！", datetime: "4月24日", type: .user)
         ]
     }
 }
